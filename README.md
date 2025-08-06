@@ -1,7 +1,7 @@
 ## 📊 Overview
 
 👋 **Welcome to the `consumer-goods-sql-ad-hoc-sales-insights` project!**  
-💡 This real-world SQL case study showcases how a Data Analyst translates raw, structured data into business-critical insights by writing optimized and analytical SQL queries.
+  This real-world SQL case study showcases how a Data Analyst translates raw, structured data into business-critical insights by writing optimized and analytical SQL queries.
 
 ---
 
@@ -11,7 +11,7 @@
 ---
 
 🧩 **The Analytical Challenge**  
-📈 This project simulates how a data analyst solves 10 ad-hoc business questions using SQL alone. Topics include sales performance, customer behavior, product trends, and pricing—all drawn from structured, relational datasets to produce insight-driven recommendations.
+📈 This project simulates how a data analyst solves 10 ad-hoc business questions using SQL. Topics include sales performance, customer behavior, product trends, and pricing—all drawn from structured, relational datasets to produce insight-driven recommendations.
 
 ---
 
@@ -19,7 +19,7 @@
 
 The analysis was performed using the following structured datasets:
 - 📁 `dim_customer` → Customer details (region, platform, name)
-- 📦 `dim_product` → Product hierarchy (category, segment, division)
+- 📦 `dim_product` → Product details (category, segment, division)
 - 📊 `fact_sales_monthly` → Monthly sales data (quantity sold, fiscal year)
 - 💰 `fact_gross_price` → Gross pricing across fiscal years
 - 🏭 `fact_manufacturing_cost` → Manufacturing costs per product annually
